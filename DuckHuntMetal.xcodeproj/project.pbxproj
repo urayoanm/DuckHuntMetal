@@ -248,7 +248,7 @@
 		CA694BCC9565425DA567B509 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSTECAT_COMPILER_OPTIMIZATION = space;
+				ASSET_CATALOG_COMPILER_OPTIMIZATION = space;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
@@ -273,7 +273,7 @@
 		9D0443BA44F94032B54ABE8A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSTECAT_COMPILER_OPTIMIZATION = space;
+				ASSET_CATALOG_COMPILER_OPTIMIZATION = space;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
